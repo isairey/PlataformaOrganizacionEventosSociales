@@ -190,7 +190,7 @@ Este módulo funciona como administrador principal del sistema.
 # 📂 Estructura del proyecto
 
 ```bash
-social-events-management/
+PlataformaOrganizacionEventosSociales/
 │
 ├── public/                   # Recursos públicos
 ├── src/
@@ -228,7 +228,7 @@ social-events-management/
 ## 1️⃣ Clonar repositorio
 
 ```bash
-git clone https://github.com/isairey/social-events-management.git
+git clone https://github.com/isairey/PlataformaOrganizacionEventosSociales.git
 ```
 
 ---
@@ -236,7 +236,7 @@ git clone https://github.com/isairey/social-events-management.git
 ## 2️⃣ Entrar al proyecto
 
 ```bash
-cd social-events-management
+cd PlataformaOrganizacionEventosSociales
 ```
 
 ---
@@ -294,33 +294,6 @@ http://localhost:5173
 
 ---
 
-# 📸 Vista previa
-
-## 🖥️ Interfaces del sistema
-
-<div align="center">
-
-### 🎉 Página principal
-![Home](https://dummyimage.com/1200x600/E91E63/ffffff&text=Social+Events+Home)
-
-### 📅 Gestión de eventos
-![Events](https://dummyimage.com/1200x600/C2185B/ffffff&text=Events+Management)
-
-### 👥 Gestión de invitados
-![Guests](https://dummyimage.com/1200x600/AD1457/ffffff&text=Guests+Management)
-
-### 🛒 Servicios y paquetes
-![Services](https://dummyimage.com/1200x600/880E4F/ffffff&text=Services+and+Packages)
-
-### 📊 Dashboard administrativo
-![Dashboard](https://dummyimage.com/1200x600/6A1B9A/ffffff&text=Admin+Dashboard)
-
-### 📱 Diseño responsive
-![Responsive](https://dummyimage.com/1200x600/8E24AA/ffffff&text=Responsive+Design)
-
-</div>
-
----
 
 # 🧠 Objetivos del proyecto
 
